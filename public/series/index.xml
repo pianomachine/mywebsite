@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series on 重力猫の足あと</title>
+    <link>//localhost:1313/series/</link>
+    <description>Recent content in Series on 重力猫の足あと</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>© 2024 重力猫の足あと</copyright>
+    <lastBuildDate>Thu, 14 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>一番価値のある才能とは</title>
+      <link>//localhost:1313/series/%E4%B8%80%E7%95%AA%E4%BE%A1%E5%80%A4%E3%81%AE%E3%81%82%E3%82%8B%E6%89%8D%E8%83%BD%E3%81%A8%E3%81%AF/</link>
+      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/series/%E4%B8%80%E7%95%AA%E4%BE%A1%E5%80%A4%E3%81%AE%E3%81%82%E3%82%8B%E6%89%8D%E8%83%BD%E3%81%A8%E3%81%AF/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>GitHub</title>
+      <link>//localhost:1313/series/github/</link>
+      <pubDate>Mon, 17 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/series/github/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Documentation on 重力猫の足あと</title>
+    <link>//localhost:1313/series/documentation/</link>
+    <description>Recent content in Documentation on 重力猫の足あと</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>© 2024 重力猫の足あと</copyright>
+    <lastBuildDate>Sun, 16 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/series/documentation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Installation</title>
+      <link>//localhost:1313/game/%E3%83%9E%E3%83%BC%E3%82%AF%E3%83%80%E3%82%A6%E3%83%B3/installation/</link>
+      <pubDate>Sun, 16 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/game/%E3%83%9E%E3%83%BC%E3%82%AF%E3%83%80%E3%82%A6%E3%83%B3/installation/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

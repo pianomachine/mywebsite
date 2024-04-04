@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Samples on 重力猫の日記</title>
+    <link>//localhost:1313/blog/game/</link>
+    <description>Recent content in Samples on 重力猫の日記</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>© 2024 </copyright>
+    <atom:link href="//localhost:1313/blog/game/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>//localhost:1313/blog/game/%E3%83%9E%E3%83%BC%E3%82%AF%E3%83%80%E3%82%A6%E3%83%B3/github%E3%82%A2%E3%83%83%E3%83%97%E3%83%AD%E3%83%BC%E3%83%89-%E3%82%84%E3%82%8A%E6%96%B9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/blog/game/%E3%83%9E%E3%83%BC%E3%82%AF%E3%83%80%E3%82%A6%E3%83%B3/github%E3%82%A2%E3%83%83%E3%83%97%E3%83%AD%E3%83%BC%E3%83%89-%E3%82%84%E3%82%8A%E6%96%B9/</guid>
+      <description> GitHubアップロード　やり方 # 手順 # Unityを開いて、新しいプロジェクトを作成 型ができたら、SoucuTreeを開く Createを押して、今回のファイルを選択 Chromeに切り替えて、GitHubで新しいリポジトリを作っておく 設定を開いて、GithubのHttpを登録 プルをして、gitIgnoreをダウンロード コミットでローカルに変化を保存 プッシュでGitHubにアップロード </description>
+      
+    </item>
+    
+  </channel>
+</rss>
